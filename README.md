@@ -1,0 +1,1 @@
+This repo contains some small demos for the APIs and MCP workshop at the KTP hackathon. Check out the Jupytr Notebooks!
